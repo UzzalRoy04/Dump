@@ -9,6 +9,6 @@ function checkMessage() {
     if (input.toLowerCase() === "sorry") {
         messageContainer.innerHTML = "<p style='color: #642DCE;'>IT'S OK. I LOVE YOU <span style='color: red;'>&lt;3</span></p>";
     } else {
-        messageContainer.innerHTML = "<p style='color: #642DCE;'>Go away!</p>";
+        messageContainer.innerHTML = "<p style='color: #642DCE;'>GO AWAY!</p>";
     }
 }
